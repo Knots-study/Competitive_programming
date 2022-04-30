@@ -1,3 +1,4 @@
+//幅優先 グリッド探索
 const int dx[4] = {0,1,0,-1};
 const int dy[4] = {1,0,-1,0};
 bool visited[50][50];
